@@ -10,7 +10,7 @@
 
  `pg_tde` is provided in database specific builds for:
 
-* [Percona Server for PostgreSQL 17](https://docs.percona.com/postgresql/17/) as part of Percona Distribution for PostgreSQL 17. This build includes all capabilities and features of `pg_tde`
+* [Percona Server for PostgreSQL 17](https://docs.percona.com/postgresql/17/postgresql-server.html) as part of Percona Distribution for PostgreSQL 17. This build includes all capabilities and features of `pg_tde`
 * PostgreSQL Community 16.x, PostgreSQL Community 17.0 and Percona Distribution for PostgreSQL 16.0. This build provides limited capabilities. Namely, index level encryption is not supported as it requires the use of a custom storage manager.
 
 [Compare builds](features.md){.md-button}
